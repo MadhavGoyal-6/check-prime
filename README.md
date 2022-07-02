@@ -1,4 +1,4 @@
-# check-prime
+# Check Prime Number
 An algorithm to check if given number is prime or not with a time complexity of O(logn)
 
 ### Dependencies
